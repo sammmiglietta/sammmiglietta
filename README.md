@@ -8,7 +8,7 @@
 
 :telescope: &nbsp; **Expertise**
 
-## :seedling: &nbsp; Keeping learning
+## :seedling: &nbsp; Keep learning
 * MasterZ.|Blockchain & Digital Assets [:memo:](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/37912846989437473799933213870497165215501391704981195481847523055433347497985/)
 * Investment Management with Python and Machine Learning [:memo:](https://www.coursera.org/account/accomplishments/specialization/certificate/9H5KKS2P7LDF)
 * Python for financial analysis and algorithmic trading [:memo:](https://www.udemy.com/certificate/UC-JIK0R4XN/)
