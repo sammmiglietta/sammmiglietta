@@ -1,58 +1,31 @@
-## 👋  &nbsp; Hi there, I'm Sam
+## 👋  &nbsp; Hi there, I'm Sam :bangbang:
 
-***Risk Analyst*** at [Eurizon](https://www.eurizoncapital.com/)
-</br>
-Former ***Quantitative Finance*** student at [UniTO](https://www.unito.it/)
-
-[![Linkedin: Samuele Miglietta](https://img.shields.io/badge/-SamueleMiglietta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuele-miglietta/)](https://www.linkedin.com/in/samuele-miglietta/)
+[![Gmail: Samuele Miglietta](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=samuelemiglietta@gmail.com)](samuelemiglietta@gmail.com)
+[![Linkedin: Samuele Miglietta](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuele-miglietta/)](https://www.linkedin.com/in/samuele-miglietta/)
 [![GitHub sammmiglietta](https://img.shields.io/github/followers/sammmiglietta?label=follow&style=social)](https://github.com/sammmiglietta)
 <img src="https://komarev.com/ghpvc/?username=sammmiglietta&style=flat-square&color=blue" alt=""/>
-:mailbox: &nbsp; samuelemiglietta@gmail.com
+
 
 👀 &nbsp; I’m interested in ...
 
-👨‍💻 &nbsp; **Credit Risk**
-
-:man_teacher: &nbsp; Former **Quantitative Finance** student
-
 :telescope: &nbsp; **Expertise**
-
-## :seedling: &nbsp; Keep learning
-* MasterZ.|Blockchain & Digital Assets [:memo:](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/37912846989437473799933213870497165215501391704981195481847523055433347497985/)
-* Investment Management with Python and Machine Learning [:memo:](https://www.coursera.org/account/accomplishments/specialization/certificate/9H5KKS2P7LDF)
-* Python for financial analysis and algorithmic trading [:memo:](https://www.udemy.com/certificate/UC-JIK0R4XN/)
 
 ---
 
 ## :flashlight: &nbsp; Highlights	
-:mortar_board: &nbsp; **Education**
-* Master's Degree in **Quantitative Finance and Insurance** at *Università degli Studi di Torino*
-  * *Thesis*: Multi-Factor Risk Attribution: An Application in Investment Process Monitoring
-  * *Key topics*: Asset pricing and Portfolio Choice, Advanced Econometrics, Derivatives, Fixed Income, Banking, Numerical and Statistical method for Finance
-* Erasmus+ Exchange Programme at *Katholieke Universiteit Leuven*
-  * *Key topics*: Risk Management, Statistical Modelling, Machine learning 
-* Bachelor's Degree in **Economics and Finance** at *Università degli Studi di Torino*
 
-:man_technologist: &nbsp; **Experience**
-* **Credit Risk Analyst** at *Eurizon Capital SGR*
-* **Financial Risk Intern** at *Eurizon Capital SGR*
+***Risk Analyst*** at [Eurizon](https://www.eurizoncapital.com/) &nbsp; :man_technologist:
+</br>
+Former ***Quantitative Finance*** student at [UniTO](https://www.unito.it/) &nbsp; :mortar_board:
 
----
+### :seedling: &nbsp; Keep learning
+* MasterZ.|Blockchain & Digital Assets [:memo:](https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/37912846989437473799933213870497165215501391704981195481847523055433347497985/)
+* Investment Management with Python and Machine Learning [:memo:](https://www.coursera.org/account/accomplishments/specialization/certificate/9H5KKS2P7LDF)
+* Python for financial analysis and algorithmic trading [:memo:](https://www.udemy.com/certificate/UC-JIK0R4XN/)
 
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://e7.pngegg.com/pngimages/457/797/png-clipart-visual-basic-for-applications-microsoft-excel-macro-microsoft-angle-logo-thumbnail.png" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="R" alt="R" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
-</div>
+### :hammer_and_wrench: &nbsp; Languages and Tools :
 
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
-<code><img height="40" src="https://e7.pngegg.com/pngimages/457/797/png-clipart-visual-basic-for-applications-microsoft-excel-macro-microsoft-angle-logo-thumbnail.png"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 
