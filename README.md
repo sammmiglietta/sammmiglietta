@@ -1,5 +1,14 @@
 ## 👋  &nbsp; Hi there, I'm Sam
 
+***Risk Analyst*** at [Eurizon](https://www.eurizoncapital.com/)
+</br>
+Former ***Quantitative Finance*** student at [UniTO](https://www.unito.it/)
+
+[![Linkedin: Samuele Miglietta](https://img.shields.io/badge/-SamueleMiglietta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuele-miglietta/)](https://www.linkedin.com/in/samuele-miglietta/)
+[![GitHub sammmiglietta](https://img.shields.io/github/followers/sammmiglietta?label=follow&style=social)](https://github.com/sammmiglietta)
+<img src="https://komarev.com/ghpvc/?username=sammmiglietta&style=flat-square&color=blue" alt=""/>
+:mailbox: &nbsp; samuelemiglietta@gmail.com
+
 👀 &nbsp; I’m interested in ...
 
 👨‍💻 &nbsp; **Credit Risk**
@@ -34,23 +43,16 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://e7.pngegg.com/pngimages/457/797/png-clipart-visual-basic-for-applications-microsoft-excel-macro-microsoft-angle-logo-thumbnail.png" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" title="R" alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="Latex" alt="Latex" width="40" height="40"/>&nbsp;
 </div>
 
-### :telephone_receiver: &nbsp; Contacts
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
+<code><img height="40" src="https://e7.pngegg.com/pngimages/457/797/png-clipart-visual-basic-for-applications-microsoft-excel-macro-microsoft-angle-logo-thumbnail.png"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png"></code>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/samuele-miglietta/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>   
-  </a>
-</div>
-
-
-<!--
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/samuele-miglietta/])
-
-<img src="https://komarev.com/ghpvc/?username=sammmiglietta&style=flat-square&color=blue" alt=""/>
-
-:mailbox: &nbsp; samuelemiglietta@gmail.com
--->
