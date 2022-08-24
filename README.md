@@ -1,6 +1,6 @@
 ## 👋  &nbsp; Hi there, I'm Sam :bangbang:
 
-[![Gmail: Samuele Miglietta](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=samuelemiglietta@gmail.com)](samuelemiglietta@gmail.com)
+[![Gmail: Samuele Miglietta](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white&link=samuelemiglietta@gmail.com)](mailto:samuelemiglietta@gmail.com)
 [![Linkedin: Samuele Miglietta](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuele-miglietta/)](https://www.linkedin.com/in/samuele-miglietta/)
 [![GitHub sammmiglietta](https://img.shields.io/github/followers/sammmiglietta?label=follow&style=social)](https://github.com/sammmiglietta)
 <img src="https://komarev.com/ghpvc/?username=sammmiglietta&style=flat-square&color=blue" alt=""/>
