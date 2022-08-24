@@ -23,8 +23,9 @@ Former ***Quantitative Finance*** student at [UniTO](https://www.unito.it/) &nbs
 * Investment Management with Python and Machine Learning [:memo:](https://www.coursera.org/account/accomplishments/specialization/certificate/9H5KKS2P7LDF)
 * Python for financial analysis and algorithmic trading [:memo:](https://www.udemy.com/certificate/UC-JIK0R4XN/)
 
-### :hammer_and_wrench: &nbsp; Languages and Tools :
+### :hammer_and_wrench: &nbsp; Languages and Tools
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg"></code>
